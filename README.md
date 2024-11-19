@@ -1,16 +1,24 @@
-# 👋 Hello, world!  
+# 👋 Olá, mundo!  
 
-I'm **@kinoi-r,** an aspiring **Fullstack Developer** with a passion for **teaching**, **creating educational materials**, and helping others bring their projects to life.  
+Sou **@kinoi-r**, aspirante a **Dev Fullstack** com paixão por **ensinar**, **criar materiais educativos** e ajudar outras pessoas a realizarem seus projetos.  
 
-## 💻 About Me  
-- 🔥 I love working with **JavaScript**, **C#**, and **Python**, and I'm always seeking to improve my skills.  
-- 🌐 Enthusiastic about **networking** and **databases**, exploring their vast possibilities excites me.  
-- 📚 My dream is to grow on the internet by teaching programming, sharing resources, and maybe even **translating programming materials** from English to Portuguese to help more people learn.  
-- 🎸 A **rock lover** at heart, working with my favorite tunes makes me feel truly happy and inspired.  
-- 🌙 Most productive during the night—maybe I have a bit of bat blood in me 🦇.  
+## 💻 Sobre mim  
+- 🔥 Amo trabalhar com **JavaScript**, **C#** e **Python**, utilizando frameworks e bibliotecas como **React**, **Node.js**, **ASP.NET Core**, **Angular** e **Flask**. Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.  
+- 🌐 Tenho grande interesse em **redes de computadores** e **bancos de dados**, sendo familiar com **MySQL**, **PostgreSQL** e **MongoDB**.  
+- 📚 Meu sonho é crescer na internet ensinando programação, compartilhando recursos e, quem sabe, até mesmo **traduzindo materiais de programação** do inglês para o português para ajudar mais pessoas a aprenderem.  
+- 🎸 Com paixão por **rock**, trabalhar ouvindo minhas músicas favoritas me deixa muito feliz e inspirado.  
+- 🌙 Minha produtividade é maior durante a madrugada — talvez eu tenha um pouco de sangue de morcego 🦇.  
 
-## 🐾 Fun Fact  
-I never work alone—my cat is my constant companion, supervising my coding sessions to ensure everything runs purr-fectly! 🐱  
+## 🌍 Idiomas  
+- **Português** (nativo)  
+- **Inglês** (Intermediário)  
+- **Espanhol** (Intermediário)  
+- Atualmente aprendendo: **Japonês** e **Alemão**.  
 
-## 📫 Let's Connect!  
-Feel free to reach out if you’re interested in collaborating, learning, or just chatting about code and music!  
+## 🐾 Curiosidade  
+Eu nunca trabalho só — meu gato é meu companheiro constante, supervisionando minhas sessões de código para garantir que tudo saia purr-fectamente! 🐱  
+
+## 📫 Vamos nos conectar!  
+Sinta-se à vontade para entrar em contato se tiver interesse em colaborar, aprender ou apenas conversar sobre código e música!
+
+## ✉️ **Meu email de contato:** nyanori.dev@gmail.com ou nyanori.dev@outlook.com ♥
