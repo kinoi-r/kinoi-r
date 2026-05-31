@@ -6,14 +6,12 @@ Sou **@kinoi-r**, aspirante a **Dev Fullstack** com paixão por **ensinar**, **c
 - 🔥 Amo trabalhar com **JavaScript**, **Java** e **PHP**, utilizando frameworks e bibliotecas. Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.  
 - 🌐 Tenho grande interesse em **redes de computadores** e **bancos de dados**, sendo familiar com **MySQL**.  
 - 📚 Meu sonho é crescer na internet ensinando programação, compartilhando recursos e, quem sabe, até mesmo **traduzindo materiais de programação** do inglês para o português para ajudar mais pessoas a aprenderem.  
-- 🎸 Com paixão por **rock**, trabalhar ouvindo minhas músicas favoritas me deixa muito feliz e inspirado.  
 - 🌙 Minha produtividade é maior durante a madrugada — talvez eu tenha um pouco de sangue de morcego 🦇.  
 
 ## 🌍 Idiomas  
 - **Português** (nativo)  
 - **Inglês** (Intermediário)  
 - **Espanhol** (Intermediário)  
-- Atualmente aprendendo: **Japonês** e **Alemão**.  
 
 ## 🐾 Curiosidade  
 Eu nunca trabalho só — meu gato é meu companheiro constante, supervisionando minhas sessões de código para garantir que tudo saia purr-fectamente! 🐱  
